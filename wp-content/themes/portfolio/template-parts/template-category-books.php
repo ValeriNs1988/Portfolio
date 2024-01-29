@@ -5,7 +5,6 @@
  */
 
 $current_category = get_queried_object();
-
 get_header();
 ?>
     <main class="site-main">
