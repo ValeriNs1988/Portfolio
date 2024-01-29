@@ -6,8 +6,6 @@ $bookDescription = get_field('book_description');
 $bookImage = wp_get_attachment_image_src(get_field('book_images'), 'full');
 $authorLink = get_field('author_link');
 
-
-
 get_header();
 ?>
     <main class="site-main">
