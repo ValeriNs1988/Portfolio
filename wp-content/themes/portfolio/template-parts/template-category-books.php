@@ -8,8 +8,6 @@ $current_category = get_queried_object();
 
 get_header();
 ?>
-
-
     <main class="site-main">
         <section class="category-banner-wrapper container">
             <?php if ($current_category->post_name == 'crime'): ?>
