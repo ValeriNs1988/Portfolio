@@ -27,7 +27,6 @@
                             </g>
                         </svg>
                     </a>
-
                     <div class="footer-menu">
                         <h3>Contact </h3>
                         <ul>
