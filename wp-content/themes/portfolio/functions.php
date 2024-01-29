@@ -215,7 +215,6 @@ function create_portfolio_cpt() {
 }
 add_action('init', 'create_portfolio_cpt');
 
-
 /**
  * Custom Post Type Books
  */
