@@ -1,0 +1,20 @@
+/*----------------------------------
+    # Site Colors
+-----------------------------------*/
+body{
+    --c-primary:  #292a2d;
+    --c-primary-b:  #707278;
+    --c-primary-c:  #afb0b6;
+
+    --c-emphasis-b: #fbf9ed ;
+    --c-emphasis-c: #e7f9df ;
+
+    --c-background: #EEEEF4;
+
+
+    /* Helper Colors */
+    --c-black: rgba(0, 0, 0, 0.75); /**/
+    --c-white: rgba(255, 255, 255, 0.7); /**/
+
+}
+
