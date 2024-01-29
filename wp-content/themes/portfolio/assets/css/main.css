@@ -240,6 +240,7 @@ section{
 .books-holder{
     flex: 0 0 100%;
     max-width: 100%;
+
     padding: 15px
 }
 .books-wrapper,
