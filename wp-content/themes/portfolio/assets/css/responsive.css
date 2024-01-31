@@ -55,6 +55,9 @@
 
 }
 @media (min-width: 992px) {
+    .site-header .main-navigation button .hamburger{
+        display: none
+    }
     .site-header #primary-menu{
         position: unset;
         background-color: transparent;
